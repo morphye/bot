@@ -41,3 +41,5 @@ Réalisé par un informaticien et un vendeur du darkmarket, cet outil vous perme
 Visitez simplement notre bot de demo sur telegram: [@cheznatbot](http://t.me/cheznatbot). Vous pouvez aussi tester les paiements en achetant des objects fictifs à 1 EUR.
 
 Si notre solution vous intéresse, veuillez contacter le support sur Telegram [@cheznat](http://t.me/cheznat). Nous pouvons vous accompagner pour l'installation du système et vous former à l'utilisation de la plateforme.
+
+![page](img/blk.png)
